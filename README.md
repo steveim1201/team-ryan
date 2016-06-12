@@ -27,13 +27,15 @@
 
     ```sh
     $ git clone git@github.com:appkr/team-ryan.git
-    \- OR -
+
+    - OR -
+
     $ git clone https://github.com/appkr/team-ryan.git
     ```
 
 -   YYmm으로 된 작업 디렉터리 아래에 자신의 닉네임으로 발표 자료를 추가합니다.
 
-    ```
+    ```sh
     team-ryan
     ├── 0612
     │   ├── _ignore             # 리뷰를 위한 로컬 사본 등 (`.gitignore`에 등록됨)
