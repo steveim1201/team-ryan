@@ -12,7 +12,7 @@
 
 일시|번역 리뷰 발표|팀 프로젝트 발표
 ---|---|---
-06/12|(1장~2장) [appkr](0612/appkr.md), drunkencoding|[appkr](0612/forum_planning.pdf)
+06/12|(1장~2장) [appkr](0612/appkr.md), [drunkencoding](0612/drunkencoding.md)|[appkr](0612/forum_planning.pdf)
 06/26|(3장~4장) yihoyoung, jaeryong|미정
 07/10|(5장~6장) drunkencoding, moka|미정
 07/24|(7장~8장) yihoyoung, jaeryong|미정
