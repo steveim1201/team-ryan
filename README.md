@@ -6,6 +6,7 @@
 
 ### 필독
 
+-   [워크숍 없는 주 목요일 10시 화상 회의(클릭하면 회의 시작)](https://meet.jit.si/appkr)
 -   06/12 [회의록](0612/meeting_minutes.md)
 
 ### 발표 순서
@@ -20,6 +21,10 @@
 08/21|(11장~12장) yihoyoung, jaeryong|미정
 
 <small>\* 몇 번 더 하고, 덜 할 수 있습니다. 역량이나 시간적인 여유 봐서 업무량을 조율할테니 이해해 주세요.</small>
+
+### 팀 디렉터리
+
+[권한 없는 사용자는 접근할 수 없습니다.](https://docs.google.com/spreadsheets/d/1Yp_ifpO9leaGFZwGMARUQWAp9hZow-R99jhj_cMX2as)
 
 ## 파일 추가 워크 플로우
 
