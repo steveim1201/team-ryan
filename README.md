@@ -8,13 +8,14 @@
 
 -   [워크숍 없는 주 목요일 10시 화상 회의(클릭하면 회의 시작)](https://meet.jit.si/appkr)
 -   06/12 [회의록](0612/meeting_minutes.md)
+-   06/16 [회의록](0616/readme.md)
 
 ### 발표 순서
 
 일시|번역 리뷰 발표|팀 프로젝트 발표
 ---|---|---
 06/12|(1장~2장) [appkr](0612/appkr.md), [drunkencoding](0612/drunkencoding.md)|[appkr](0612/forum_planning.pdf)
-06/26|(3장~4장) yihoyoung, jaeryong|미정
+06/26|(3장~4장) yihoyoung, jaeryong|appkr
 07/10|(5장~6장) drunkencoding, moka|미정
 07/24|(7장~8장) yihoyoung, jaeryong|미정
 08/07|(9장~10장) drunkencoding, moka|미정
@@ -46,7 +47,7 @@
     │   ├── _ignore             # 리뷰를 위한 로컬 사본 등 (`.gitignore`에 등록됨)
     │   ├── appkr.md            # appkr 리뷰 자료
     │   ├── drunkencoding.ext   # drunkencoding 리뷰 자료
-    │   └── meeting_minutes.md  # 온/오프라인 회의록
+    │   └── readme.md           # 온/오프라인 회의록
     ├── YYmm
     ├── ...
     ├── .gitignore
