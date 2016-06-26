@@ -7,21 +7,21 @@
 
 ## 서버 관련
 
--    버전
---    ruby : 2.3.1
---    ruby on rails : 4.2.6
+-   버전
+    -    ruby : 2.3.1
+    -    ruby on rails : 4.2.6
 
 -    도커 환경: 
---    mysql 서버 1대:  ubuntu:16.04
---    web 서버 1대:  ubuntu:16.04
+    -    mysql 서버 1대:  ubuntu:16.04
+    -    web 서버 1대:  ubuntu:16.04
 
 -    로컬 릴리즈 방식
---    #ln -s /App/release/20160524/ryan current
---    /App/current
+    -    #ln -s /App/release/20160524/ryan current
+    -    /App/current
 
 
 -    Git work flow
---    [본인계정]/develop/master
+    -    [본인계정]/develop/master
 
 -    html templating 
---    slim Gem
+    -    slim Gem
